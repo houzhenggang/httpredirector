@@ -46,7 +46,7 @@ docker run --rm -ti \
   -e FORCE_SSL=TRUE \
   -e FORCE_WWW=TRUE \
   -p 80:8080 \
-  q4uw/httpredirector:0.0.1
+  q4uw/httpredirector:0.0.2
 ```
 
 Verify it is working
